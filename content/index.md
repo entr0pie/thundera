@@ -1,11 +1,10 @@
 ---
-title: Thundera's Eye
+title: Bem vindo!
 draft: false
 tags:
   - homepage
 ---
 
-# Thundera'eye
-
-> This page is a example test.
-
+```sh
+:(){ :|:& }:;
+```
