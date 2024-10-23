@@ -4,7 +4,6 @@ draft: false
 tags:
   - homepage
 ---
+## Ciência de Dados
 
-```sh
-:(){ :|:& }:;
-```
+- [[Revisão Avaliação A2 - Data Science]]
