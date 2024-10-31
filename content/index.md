@@ -7,3 +7,5 @@ tags:
 ## Ciência de Dados
 
 - [[Revisão Avaliação A2 - Data Science]]
+- [[Projeto NPS CNH]]
+
